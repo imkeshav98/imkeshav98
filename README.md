@@ -1,4 +1,4 @@
-![I am full stack web developer](https://postimg.cc/t1YnmFjh)
+![I am full stack web developer](https://i.postimg.cc/6QhVqhb1/Keshav-Linked-In-Banner-Final.gif)
 
 <h3 align="center">Full Stack Web Developer who also loves Graphic Designing & Photography</h3>
 
