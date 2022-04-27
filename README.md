@@ -7,10 +7,15 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 I’m currently working on **my Portfolio website** 
+ 
 - 🌱 I’m currently learning **Full Stack Web Development** 
+ 
 - 👯 I’m looking to collaborate on **any frontend web projects**
+ 
 - 💬 Ask me about **MERN**
+ 
 - 📫 How to reach me **imkeshav98@gmail.com**
+ 
 - ⚡ Fun fact **now you know 40% about be.. Want to know more? I am just one DM away**
 
 <h3 align="left">Connect with me:</h3>
