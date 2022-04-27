@@ -1,6 +1,6 @@
 ![I am full stack web developer](https://i.postimg.cc/6QhVqhb1/Keshav-Linked-In-Banner-Final.gif)
 
-<h3 align="center">Full Stack Web Developer who also loves Graphic Designing & Photography</h3>
+<h3 align="center">Full Stack Web Developer 🌐 who also loves Graphic Designing ✨ & Photography 📸</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
