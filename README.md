@@ -1,6 +1,6 @@
-<style>
+<styles>
   .hero { margin:auto; }
-<style/>
+<styles/>
 
 <center><img align="center" class="hero" src="https://media-exp1.licdn.com/dms/image/C4E16AQGfiqqUx_3mLg/profile-displaybackgroundimage-shrink_200_800/0/1646834180802?e=2147483647&v=beta&t=kR6uoh0RTkPgRAyVpvhCvAdTEcvok1__bWZtBQ1Q2t0"></center>
   
