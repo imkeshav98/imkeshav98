@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Keshav Chaudhary</h1>
-<h3 align="center">Full Stack Web Developer who also loves Graphic Designing & Photography</h3>
-
 <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+<h1 align="center">Hi 👋, I'm Keshav Chaudhary</h1>
+<h3 align="center">Full Stack Web Developer who also loves Graphic Designing & Photography</h3>
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
