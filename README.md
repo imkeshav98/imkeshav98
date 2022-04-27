@@ -1,6 +1,9 @@
-<p align="center">
-  <center><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQGfiqqUx_3mLg/profile-displaybackgroundimage-shrink_200_800/0/1646834180802?e=2147483647&v=beta&t=kR6uoh0RTkPgRAyVpvhCvAdTEcvok1__bWZtBQ1Q2t0"></center>
-</p>
+<style>
+  .hero { margin:auto; }
+<style/>
+
+<center><img align="center" class="hero" src="https://media-exp1.licdn.com/dms/image/C4E16AQGfiqqUx_3mLg/profile-displaybackgroundimage-shrink_200_800/0/1646834180802?e=2147483647&v=beta&t=kR6uoh0RTkPgRAyVpvhCvAdTEcvok1__bWZtBQ1Q2t0"></center>
+  
 <h3 align="center">Full Stack Web Developer who also loves Graphic Designing & Photography</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
