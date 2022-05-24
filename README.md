@@ -4,13 +4,13 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 🔭 I’m currently working on **my Portfolio website**  <p align="right"><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></p>
+- 🔭 I’m currently working on **my Portfolio website**  
  
 - 🌱 I’m currently learning **Full Stack Web Development** 
  
 - 👯 I’m looking to collaborate on **any frontend web projects**
  
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** <p align="right"><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></p>
  
 - 📫 How to reach me **imkeshav98@gmail.com**
  
