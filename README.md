@@ -10,7 +10,7 @@
  
 - 👯 I’m looking to collaborate on **any frontend web projects**
  
-- 💬 Ask me about **MERN** <p align="right"><img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></p>
+- 💬 Ask me about **MERN** <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  
 - 📫 How to reach me **imkeshav98@gmail.com**
  
