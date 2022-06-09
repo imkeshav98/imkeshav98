@@ -30,6 +30,4 @@
 <a href="https://www.youtube.com/watch?v=mRAofLwt8pA"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imkeshav98&" alt="imkeshav98" /></p>
-<p align="center">
-  <center><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<p align="center"><img align="center" src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></p>
